@@ -29,7 +29,7 @@
 
   En este caso, creo que la Laplaciana es una función muy útil para la vida diaria, en muchos ámbitos. Detectar bordes es práctico para muchos contextos, por lo que creo que además, verlo en tiempo real es aún más impresionante.
 
-  ![](Lapalciana-bordes.png)
+  ![](Laplaciana-bordes.png)
 
 ### Tarea 5 - Reinterpretación del procesamiento de imágenes.
 
