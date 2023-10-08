@@ -45,8 +45,8 @@
   G' = G - B/2
   B' = B - R/2
 
-  ![](Captura filtro color piel.png)
+  ![](Captura_filtro_color_piel.png)
 
   Otra configuración:
 
-  ![](Captura filtro color piel 2.png)
+  ![](Captura_filtro_color_piel2.png)
