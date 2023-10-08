@@ -1,3 +1,4 @@
+
 # P2 - Funciones básicas de OpenCV
 
 ## Desarrollo
@@ -10,17 +11,25 @@
 
   En ambos casos se utilizan funciones de la librería matplotlib para mostrar la imagen y la gráfica que muestra las concentración
 
+  ![](VC_P2_0.png)
+
 ### Tarea 2 - Aplicación de Sobel a otra imagen
 
   En esta tarea, se ha seleccionado una imagen, y se han hecho copias a color, en gris, y en gris tras aplicar la gaussiana, todo mediante el uso de funciones de la librería OpenCV. Con la última de estas imágenes se han realizado las transfromaciones de Sobel, que se muestran posteriormente con la librería matplotlib.
+  
+  ![](VC_P2_1.png)
 
 ### Tarea 3 - Umbralizado a la imagen resultante de Sobel + conteo de columnas y filas.
 
   Para el umbralizado, se ha seleccionado un número que permita ver una imagen similar a la original en el resultado,   100 en este caso. Con la función treshold de OpenCV se aplica el umbral a la foto de la tarea anterior, y con el procedimimento de la tarea 1, se obtienen las filas y columnas que superan el umbral que se calculó previamente.
+  
+  ![](VC_P2_0.png)
 
 ### Tarea 4 - Commportamiento de las funciones para mostrarle a alguien que no cursa la asignatura
 
   En este caso, creo que la Laplaciana es una función muy útil para la vida diaria, en muchos ámbitos. Detectar bordes es práctico para muchos contextos, por lo que creo que además, verlo en tiempo real es aún más impresionante.
+
+  ![](Lapalciana-bordes.png)
 
 ### Tarea 5 - Reinterpretación del procesamiento de imágenes.
 
@@ -36,4 +45,8 @@
   G' = G - B/2
   B' = B - R/2
 
-  
+  ![](Captura filtro color piel.png)
+
+  Otra configuración:
+
+  ![](Captura filtro color piel 2.png)
